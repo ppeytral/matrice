@@ -29,5 +29,9 @@ module.exports = isEven;
 module.exports = printNTimes;
 module.exports = printN;
 
+/*
 printN("bottle", 4);
-printN("bottle", 5);
+printN("ship", 1);
+printN("oh", 4);
+printN("!", 5);
+*/
